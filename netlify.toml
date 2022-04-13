@@ -1,3 +1,0 @@
-[build]
-    command = "mkdocs build --strict"
-    publish = "build/mkdocs/site"
